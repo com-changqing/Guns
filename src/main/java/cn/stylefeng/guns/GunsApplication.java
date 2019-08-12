@@ -25,8 +25,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * SpringBoot方式启动类
  *
- * @author stylefeng
- * @Date 2017/5/21 12:06
+ * @author y
  */
 @SpringBootApplication(exclude = {WebAutoConfiguration.class})
 @EnableScheduling
